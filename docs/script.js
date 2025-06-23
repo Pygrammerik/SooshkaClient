@@ -5,11 +5,8 @@ document.addEventListener('DOMContentLoaded', () => {
     // Download button logic
     const downloadBtn = document.getElementById('download-btn');
     if (downloadBtn) {
-        // Replace with your GitHub repository details
-        const user = 'USER';
-        const repo = 'REPO';
-        const latestReleaseUrl = `https://github.com/${user}/${repo}/releases/latest`;
-        downloadBtn.href = latestReleaseUrl;
+        // Use the provided GitHub release link
+        downloadBtn.href = 'https://github.com/Pygrammerik/SooshkaClient/releases/tag/Release';
     }
 
     // Theme switcher logic
