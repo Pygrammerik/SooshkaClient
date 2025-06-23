@@ -1,35 +1,35 @@
 # Sooshka Client ![Icon](docs/icon/icon.png)
 
-Добро пожаловать на страницу Sooshka Client! Это модифицированный клиент, основанный на популярном SolClient и созданный с целью улучшить ваш игровой опыт.
+Welcome to the Sooshka Client page! This is a modified client based on the popular SolClient, created to enhance your gaming experience.
 
-## 🚀 Как установить
+## 🚀 How to Install
 
-1.  **Добавить сборку.**  
-    *В вашем лаунчере нажмите на кнопку добавления новой сборки/версии.*
-    ![Шаг 1](docs/assets/1.png)
+1.  **Add a new version.**  
+    *In your launcher, click the button to add a new build/version.*
+    ![Step 1](docs/assets/1.png)
 
-2.  **Выбрать 'Импорт'.**  
-    *В появившемся окне выберите опцию импорта.*
-    ![Шаг 2](docs/assets/2.png)
+2.  **Select 'Import'.**  
+    *In the window that appears, select the import option.*
+    ![Step 2](docs/assets/2.png)
 
-3.  **Нажать 'Обзор'.**  
-    *Найдите и нажмите кнопку для обзора файлов на вашем компьютере.*
-    ![Шаг 3](docs/assets/3.png)
+3.  **Click 'Browse'.**  
+    *Find and click the button to browse for files on your computer.*
+    ![Step 3](docs/assets/3.png)
 
-4.  **Выбрать скачанную сборку.**  
-    *Найдите и выберите скачанный файл Sooshka Client (обычно с расширением `.zip` или `.jar`).*
-    ![Шаг 4](docs/assets/4.png)
+4.  **Select the downloaded version.**  
+    *Find and select the downloaded Sooshka Client file (usually with a .zip or .jar extension).*
+    ![Step 4](docs/assets/4.png)
 
-5.  **Нажать 'ОК'.**  
-    *Подтвердите свой выбор.*
-    ![Шаг 5](docs/assets/5.png)
+5.  **Click 'OK'.**  
+    *Confirm your selection.*
+    ![Step 5](docs/assets/5.png)
 
-6.  **Готово! Запускаем клиент.**  
-    *Теперь вы можете выбрать Sooshka Client из списка версий и запустить игру.*
-    ![Шаг 6](docs/assets/6.png)
+6.  **Done! Launch the client.**  
+    *Now you can select Sooshka Client from the version list and launch the game.*
+    ![Step 6](docs/assets/6.png)
 
-*Примечание: для корректного отображения скриншотов убедитесь, что папки `icon` и `assets` находятся в корне вашего репозитория.*
+*Note: For the website to work correctly, make sure it is deployed from the `docs` folder in your repository settings on GitHub Pages.*
 
-## 👤 Создатель
+## 👤 Creator
 
-Проект разработан и поддерживается **Sooshka**. 
+The project is developed and maintained by **Sooshka**. 
